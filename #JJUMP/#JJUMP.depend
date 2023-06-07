@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1620313675 source:d:\sdl\#jjump\bullet.cpp
+	"Bullet.h"
+
+1620057488 d:\sdl\#jjump\bullet.h
+	"TextureManage.h"
+	<SDL_image.h>
+	<iostream>
+
+1616210493 d:\sdl\#jjump\texturemanage.h
+	<SDL.h>
+	<SDL_image.h>
+	"RenderWindow.h"
+
+1620121272 d:\sdl\#jjump\renderwindow.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<cstdlib>
+	<string>
+	<ctime>
+
+1620027127 source:d:\sdl\#jjump\button.cpp
+	"Button.h"
+
+1619202691 d:\sdl\#jjump\button.h
+	"TextureManage.h"
+
+1617604271 source:d:\sdl\#jjump\coin.cpp
+	"Coin.h"
+
+1617604135 d:\sdl\#jjump\coin.h
+	"TextureManage.h"
+
+1620403933 source:d:\sdl\#jjump\main.cpp
+	"GameBase.h"
+
+1620437400 d:\sdl\#jjump\mainobject.h
+	<vector>
+	"RenderWindow.h"
+	"TextureManage.h"
+	"Platform.h"
+	"Bullet.h"
+
+1620053344 d:\sdl\#jjump\platform.h
+	"RenderWindow.h"
+
+1620436609 d:\sdl\#jjump\threatobject.h
+	"TextureManage.h"
+
+1619536798 d:\sdl\#jjump\text.h
+	<string>
+	"TextureManage.h"
+
+1620437691 source:d:\sdl\#jjump\mainobject.cpp
+	"MainObject.h"
+
+1620053351 source:d:\sdl\#jjump\platform.cpp
+	"Platform.h"
+	"TextureManage.h"
+	"RenderWindow.h"
+
+1620315088 source:d:\sdl\#jjump\renderwindow.cpp
+	"RenderWindow.h"
+
+1620027067 source:d:\sdl\#jjump\text.cpp
+	"Text.h"
+
+1616074730 source:d:\sdl\#jjump\texturemanage.cpp
+	"TextureManage.h"
+
+1620436609 source:d:\sdl\#jjump\threatobject.cpp
+	"ThreatObject.h"
+
+1620050473 source:d:\sdl\#jjump\time.cpp
+	"Time.h"
+
+1620051970 d:\sdl\#jjump\time.h
+	"RenderWindow.h"
+
+1620437499 source:d:\sdl\#jjump\gamebase.cpp
+	"GameBase.h"
+
+1620186095 d:\sdl\#jjump\gamebase.h
+	"RenderWindow.h"
+	"MainObject.h"
+	"Platform.h"
+	"ThreatObject.h"
+	"Coin.h"
+	"Text.h"
+	"Button.h"
+	"Time.h"
+	<sstream>
+
